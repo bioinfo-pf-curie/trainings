@@ -101,7 +101,7 @@ The bioinformatics platform of the Institut Curie provides here a list of free b
 	- algorithms, python, data analysis
 - [Ivy League Courses freeCodeCamp list](https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/amp/?__twitter_impression=true)
 	- programming, data analysis
-- (**new**)[Picking Up The Tabb](https://pickingupthetabb.wordpress.com/building-a-bioinformaticist/free-online-training-in-bioinformatics-and-biostatistics/)
+- (**new**) [Picking Up The Tabb](https://pickingupthetabb.wordpress.com/building-a-bioinformaticist/free-online-training-in-bioinformatics-and-biostatistics/)
 	- R, statistics, data analysis, Proteomics, Genomics, python
 
 
@@ -142,7 +142,7 @@ The bioinformatics platform of the Institut Curie provides here a list of free b
 #### Blogs
 - [RNAseq-blog](https://www.rna-seqblog.com/)
 - [Bioinfo-fr](https://bioinfo-fr.net/)
-- (**new**)[KeepScienceGoing](http://keepsciencegoing.org)
+- (**new**) [KeepScienceGoing](http://keepsciencegoing.org)
 
 #### Apps
 
