@@ -16,7 +16,8 @@ The bioinformatics platform of the Institut Curie provides here a list of free b
 - [Ressources](#ressources)  
 - [MOOC](#massive-open-online-course---mooc)
 - [Cheatsheets](#cheatsheets)  
-- [Youtube channels](#youtube-channels)  
+- [Youtube channels](#youtube-channels)
+- [Webinars](#webinars)
 - Misceallenous
 	- [Blogs](#blogs)  
 	- [Apps](#apps)  
@@ -136,6 +137,14 @@ The bioinformatics platform of the Institut Curie provides here a list of free b
 	- NGS, data analysis
 - [Python Programmer](https://www.youtube.com/user/consumerchampion/playlists)
 	- python, machine learning, data analysis
+
+
+### Webinars
+- (**new**) [Orsys](https://www.orsys.com/Videos/)
+	- [IA](https://www.orsys.com/Videos/Video?themeId=4&videoId=webinar-IA)
+	- [Data science](https://www.orsys.com/Videos/Video?themeId=4&videoId=webinar-data-science-dataviz)
+	- [Big Data](https://www.orsys.com/Videos/Video?themeId=4&videoId=webinar-data-science)
+	- [Deep learning](https://www.orsys.com/Videos/Video?themeId=4&videoId=webinar-deeplearning)
 
 ### Miscellaneous
 
