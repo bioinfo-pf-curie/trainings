@@ -18,6 +18,7 @@ The bioinformatics platform of the Institut Curie provides here a list of free b
 - [Cheatsheets](#cheatsheets)  
 - [Youtube channels](#youtube-channels)
 - [Webinars](#webinars)
+- [Online Tools](#online-tools)
 - Misceallenous
 	- [Blogs](#blogs)  
 	- [Apps](#apps)  
@@ -145,6 +146,19 @@ The bioinformatics platform of the Institut Curie provides here a list of free b
 	- [Data science](https://www.orsys.com/Videos/Video?themeId=4&videoId=webinar-data-science-dataviz)
 	- [Big Data](https://www.orsys.com/Videos/Video?themeId=4&videoId=webinar-data-science)
 	- [Deep learning](https://www.orsys.com/Videos/Video?themeId=4&videoId=webinar-deeplearning)
+
+
+### Online tools
+- (**new**) [Alfred - Generate BAM alignment statistics](https://www.gear-genomics.com/alfred/)
+- (**new**) [Mutalyzer - Check and convert HGVS variant nomenclature](https://mutalyzer.nl/)
+- (**new**) [VariantValidator - Validate and convert HGVS variant nomenclature](https://variantvalidator.org/)
+- (**new**) [TeXMed - a BibTeX interface for PubMed](https://www.bioinformatics.org/texmed/)
+- (**new**) [WebGestald - a web-based Gene Set Analysis Toolkit](http://www.webgestalt.org/)
+- (**new**) [UpsetR - Shiny app to create UpSet plots](https://gehlenborglab.shinyapps.io/upsetr/)
+- (**new**) [Data-to-viz - Find the graphic you need](https://www.data-to-viz.com/)
+- (**new**) [UCSC Xena - Explore functional genomic data sets](https://xena.ucsc.edu/)
+
+
 
 ### Miscellaneous
 
