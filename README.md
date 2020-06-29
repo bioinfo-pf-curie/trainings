@@ -153,11 +153,11 @@ The bioinformatics platform of the Institut Curie provides here a list of free b
 - (**new**) [Mutalyzer - Check and convert HGVS variant nomenclature](https://mutalyzer.nl/)
 - (**new**) [VariantValidator - Validate and convert HGVS variant nomenclature](https://variantvalidator.org/)
 - (**new**) [TeXMed - a BibTeX interface for PubMed](https://www.bioinformatics.org/texmed/)
-- (**new**) [WebGestald - a web-based Gene Set Analysis Toolkit](http://www.webgestalt.org/)
+- (**new**) [WebGestalt - a web-based Gene Set Analysis Toolkit](http://www.webgestalt.org/)
 - (**new**) [UpsetR - Shiny app to create UpSet plots](https://gehlenborglab.shinyapps.io/upsetr/)
 - (**new**) [Data-to-viz - Find the graphic you need](https://www.data-to-viz.com/)
 - (**new**) [UCSC Xena - Explore functional genomic data sets](https://xena.ucsc.edu/)
-
+- (**new**) [g:Profiler - functional enrichment analysis](https://biit.cs.ut.ee/gprofiler/gost)
 
 
 ### Miscellaneous
