@@ -105,6 +105,8 @@ The bioinformatics platform of the Institut Curie provides here a list of free b
 	- programming, data analysis
 - (**new**) [Picking Up The Tabb](https://pickingupthetabb.wordpress.com/building-a-bioinformaticist/free-online-training-in-bioinformatics-and-biostatistics/)
 	- R, statistics, data analysis, Proteomics, Genomics, python
+- (**new**) [Computational Genomics with R](https://compgenomr.github.io/book/)
+	- R, Genomics, statistics, data analysis
 
 
 ### Massive Open Online Course - MOOC
