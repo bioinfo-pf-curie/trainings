@@ -117,6 +117,8 @@ The bioinformatics platform of the Institut Curie provides here a list of free b
 - [Coursera](https://www.coursera.org/)
 	- Registration needed, audits are free
 	- [List of available bioinformatics courses](https://github.com/asntech/comp-bio-moocs)
+- [DIY transcriptomics](http://diytranscriptomics.com/)
+	- RNAseq, NGS
 
 
 ### Youtube channels
