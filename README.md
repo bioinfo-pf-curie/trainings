@@ -142,6 +142,8 @@ The bioinformatics platform of the Institut Curie provides here a list of free b
 	- NGS, data analysis
 - [Python Programmer](https://www.youtube.com/user/consumerchampion/playlists)
 	- python, machine learning, data analysis
+- (**new**) [Rinnformatics](https://www.youtube.com/channel/UC7vZD35eUp4_SxsHnJLthJw?feature=emb_ch_name_ex)
+	- R, Nextflow, git
 
 
 ### Webinars
