@@ -6,6 +6,9 @@ List of Curie trainings
 
 | Date                                           | Formation / Training                | Salle / Room    |
 |:----------------------------------------------:|:-----------------------------------:|:---------------:|
+| 09/04                                          | Bioshiny apps usage (Crispr)                     | Teams |
+| 12/05                                          | Bioinformatics pipeline                     | Teams |
+| 15/06                                          | Proteomics Analysis                     | Teams |
 | 09/09                                          | Python4Biologists                     | BDD Annexes 3/4 |
 | 04 & 05 & 07 & 08/10   | Data analysis with R                                             | BDD Annexes 3/4 |
 | 19/10                                          | NGS Epigenetics                     | BDD Annexes 1/2 |
@@ -22,6 +25,24 @@ For more information on the trainings: contact us at bioinfo.formation@curie.fr.
 ---
 
 ### Contents
+
+
+#### Bioshiny apps usage (Crispr)
+
+1. Comment importer les données crispr  / *How to import your crispr data*
+2. Analyse descriptive des données / *Descriptive analysis*
+3. Analyse statistique & courbes ROC  / *Statistical analysis and draw ROC curves*
+4. Comment télécharger vos résultats / *How to download your results*
+5. Réflexion sur les besoins utilisateurs / *Brainstorming about user needs*
+
+**Pre-requis**: un compte KDI, essayez de vous connecter à https://bioinfo-portal.curie.fr / *a KDI account. Try to connect with your curie login/pwd on https://bioinfo-portal.curie.fr*
+
+##### Bioinformatics pipeline
+
+Comment lancer un pipeline  de la plateforme de bioinformatique de production en nextflow / *How to run a nextflow bioinformatics pipeline  ?*
+
+**Pre-requis**: Experience en langages de programmation (bash, python..) et environnement unix + compte sur le cluster / *experience in programmation languages (bash, python..) & unix environment & cluster account*
+
 
 #### Python4Biologists
 
@@ -49,7 +70,7 @@ For more information on the trainings: contact us at bioinfo.formation@curie.fr.
 
 Coming soon...
 
-<!-- **Pre-requis**:  -->
+<!-- **Pre-requis**:-->
 
 #### Data visualization (ggplot2) with R
 
@@ -57,18 +78,8 @@ Coming soon...
 
 <!-- **Pre-requis**:  -->
 
+
 <!--
-#### Bioshiny apps usage (Crispr)
-
-1. Comment importer les données crispr  / *How to import your crispr data*
-2. Analyse descriptive des données / *Descriptive analysis*
-3. Analyse statistique & courbes ROC  / *Statistical analysis and draw ROC curves*
-4. Comment télécharger vos résultats / *How to download your results*
-5. Réflexion sur les besoins utilisateurs / *Brainstorming about user needs*
-
-**Pre-requis**: un compte KDI, essayez de vous connecter à https://bioinfo-portal.curie.fr / *a KDI account. Try to connect with your curie login/pwd on https://bioinfo-portal.curie.fr*
-
-
 #### Statistical tests : notions and approach
 
 1. Introduction aux tests statistiques / *Introduction to statistical tests*
@@ -106,11 +117,6 @@ Coming soon...
 **Pre-requis**: Experience en langages de programmation (bash, python..) et environnement unix / *experience in programmation languages (bash, python..) & unix environment*
 
 
-##### Bioinformatics pipeline
-
-Comment lancer un pipeline  de la plateforme de bioinformatique de production en nextflow / *How to run a nextflow bioinformatics pipeline  ?*
-
-**Pre-requis**: Experience en langages de programmation (bash, python..) et environnement unix + compte sur le cluster / *experience in programmation languages (bash, python..) & unix environment & cluster account*
 
 
 #### "Bash” to basics
