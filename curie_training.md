@@ -27,6 +27,21 @@ For more information on the trainings: contact us at bioinfo.formation@curie.fr.
 ### Contents
 
 
+#### Mass spectrometry for proteomics data analysis
+
+1. Introduction à la spectrométrie de masse protéomique / *Introduction to proteomic mass spectrometry.*
+2. Identification de protéines / Protein identification.
+--> Contrôle qualité, gestion de listes de protéines, modifications post-traductionnelles (PTMs), interprétation biologique/ *Quality control, protein lists management, post-translational modifications (PTMs), biological interpretation.*
+3. Travaux pratiques sur l'identification / Tutorial on protein identification.
+--> Analyse de données d'identification à l'aide du logiciel myProMS / *Practical session on identification data analysis using myProMS software.*
+ 4. Quantification de protéines et de PTMs / Protein and PTM quantification.
+--> Principe, stratégies de marquage d'échantillon, dessin expérimental, analyse des données, interprétation biologique / *Concept, sample labeling strategies, experimental design, data analysis, biological interpretation.*
+5. Travaux pratiques sur la quantification / Tutorial on protein identification.
+--> *Analyse de données quantitatives à l'aide du logiciel myProMS / Practical session on quantitative data analysis using myProMS software.*
+
+**Pre-requis**: ordinateur portable avec accès Wi-fi et navigateur internet / *laptop with Wi-fi connexion & internet browser*
+
+
 #### Bioshiny apps usage (Crispr)
 
 1. Comment importer les données crispr  / *How to import your crispr data*
