@@ -52,7 +52,7 @@ For more information on the trainings: contact us at bioinfo.formation@curie.fr.
 
 **Pre-requis**: un compte KDI, essayez de vous connecter à https://bioinfo-portal.curie.fr / *a KDI account. Try to connect with your curie login/pwd on https://bioinfo-portal.curie.fr*
 
-##### Bioinformatics pipeline
+#### Bioinformatics pipeline
 
 Comment lancer un pipeline  de la plateforme de bioinformatique de production en nextflow / *How to run a nextflow bioinformatics pipeline  ?*
 
