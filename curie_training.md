@@ -8,11 +8,11 @@ List of Curie trainings
 |:----------------------------------------------:|:-----------------------------------:|:---------------:|
 | 09/04                                          | Bioshiny apps usage (Crispr)                     | Teams |
 | 12/05                                          | Bioinformatics pipeline                     | Teams |
-| 15/06                                          | Proteomics Analysis                     | Teams |
 | 09/09                                          | Python4Biologists                     | BDD Annexes 3/4 |
 | 04 & 05 & 07 & 08/10   | Data analysis with R                                             | BDD Annexes 3/4 |
 | 19/10                                          | NGS Epigenetics                     | BDD Annexes 1/2 |
 | 12/11                                          | Data visualization (ggplot2) with R | BDD Annexes 1/2 |
+| 16/11                                          | Proteomics Analysis  | BDD Annexes 1/2 |
 
 
 
