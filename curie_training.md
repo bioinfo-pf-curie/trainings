@@ -10,7 +10,7 @@ List of Curie trainings
 | 12/05                                          | Bioinformatics pipeline                     | Teams |
 | 09/09                                          | Python4Biologists                     | BDD Annexes 3/4 |
 | 04 & 05 & 07 & 08/10   | Data analysis with R                                             | BDD Annexes 3/4 |
-| 19/10                                          | NGS Epigenetics                     | BDD Annexes 1/2 |
+| 19/10                                          | ChIP-seq analysis                    | BDD Annexes 1/2 |
 | 12/11                                          | Data visualization (ggplot2) with R | BDD Annexes 1/2 |
 | 16/11                                          | Proteomics Analysis  | BDD Annexes 1/2 |
 
@@ -25,21 +25,6 @@ For more information on the trainings: contact us at bioinfo.formation@curie.fr.
 ---
 
 ### Contents
-
-
-#### Mass spectrometry for proteomics data analysis
-
-1. Introduction à la spectrométrie de masse protéomique / *Introduction to proteomic mass spectrometry.*
-2. Identification de protéines / Protein identification.
---> Contrôle qualité, gestion de listes de protéines, modifications post-traductionnelles (PTMs), interprétation biologique/ *Quality control, protein lists management, post-translational modifications (PTMs), biological interpretation.*
-3. Travaux pratiques sur l'identification / Tutorial on protein identification.
---> Analyse de données d'identification à l'aide du logiciel myProMS / *Practical session on identification data analysis using myProMS software.*
- 4. Quantification de protéines et de PTMs / Protein and PTM quantification.
---> Principe, stratégies de marquage d'échantillon, dessin expérimental, analyse des données, interprétation biologique / *Concept, sample labeling strategies, experimental design, data analysis, biological interpretation.*
-5. Travaux pratiques sur la quantification / Tutorial on protein identification.
---> *Analyse de données quantitatives à l'aide du logiciel myProMS / Practical session on quantitative data analysis using myProMS software.*
-
-**Pre-requis**: ordinateur portable avec accès Wi-fi et navigateur internet / *laptop with Wi-fi connexion & internet browser*
 
 
 #### Bioshiny apps usage (Crispr)
@@ -81,17 +66,35 @@ Comment lancer un pipeline  de la plateforme de bioinformatique de production en
 **Pre-requis**: Aucun / *None*
 
 
-#### NGS epigenetics
+#### ChIP-seq analyis
 
-Coming soon...
+1. Contrôle qualité des données / *Data quality control*
+2. Alignement / *Alignment*
+3. Visualisation / *Visualisation*
+4. Peak Calling / *Peak calling*
 
-<!-- **Pre-requis**:-->
+**Pre-requis**: Experience en langages de programmation (bash, python..) et environnement unix + compte sur le cluster / *experience in programmation languages (bash, python..) & unix environment & cluster account*
 
 #### Data visualization (ggplot2) with R
 
 Coming soon...
 
 <!-- **Pre-requis**:  -->
+
+
+#### Proteomics analysis
+
+1. Introduction à la spectrométrie de masse protéomique / *Introduction to proteomic mass spectrometry.*
+2. Identification de protéines / Protein identification.
+--> Contrôle qualité, gestion de listes de protéines, modifications post-traductionnelles (PTMs), interprétation biologique/ *Quality control, protein lists management, post-translational modifications (PTMs), biological interpretation.*
+3. Travaux pratiques sur l'identification / Tutorial on protein identification.
+--> Analyse de données d'identification à l'aide du logiciel myProMS / *Practical session on identification data analysis using myProMS software.*
+ 4. Quantification de protéines et de PTMs / Protein and PTM quantification.
+--> Principe, stratégies de marquage d'échantillon, dessin expérimental, analyse des données, interprétation biologique / *Concept, sample labeling strategies, experimental design, data analysis, biological interpretation.*
+5. Travaux pratiques sur la quantification / Tutorial on protein identification.
+--> *Analyse de données quantitatives à l'aide du logiciel myProMS / Practical session on quantitative data analysis using myProMS software.*
+
+**Pre-requis**: ordinateur portable avec accès Wi-fi et navigateur internet / *laptop with Wi-fi connexion & internet browser*
 
 
 <!--
