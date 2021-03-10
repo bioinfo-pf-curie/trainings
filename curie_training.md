@@ -20,7 +20,9 @@ List of Curie trainings
 
 ### Contact
 
-For more information on the trainings: contact us at bioinfo.formation@curie.fr.
+Les formations seront dispensées en anglais si une des personnes enseignées ne parle pas français. / *Trainings will be given in english if at least one trainee doesn't speak french*.
+
+Pour plus d'informations sur les formations / *For more information on the trainings*:  bioinfo.formation@curie.fr.
 
 ---
 
