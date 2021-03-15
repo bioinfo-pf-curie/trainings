@@ -22,6 +22,8 @@ List of Curie trainings
 
 Les formations seront dispensées en anglais si une des personnes enseignées ne parle pas français. / *Trainings will be given in english if at least one trainee doesn't speak french*.
 
+Demande d'accès au VPN Extended / *Extended VPN access request*: https://tickets.curie.net/plugins/formcreator/front/formdisplay.php?id=6
+
 Pour plus d'informations sur les formations / *For more information on the trainings*:  bioinfo.formation@curie.fr.
 
 ---
@@ -65,7 +67,7 @@ Comment lancer un pipeline  de la plateforme de bioinformatique de production en
 3. Visualisation (création de graphes) / *Visualisation (plots..)*
 4. Introduction aux statistiques (description des donnéées, analyse exploratoire, tests d’hypothèse) / *Introduction to statistics (data description, exploratory analysis, hypothesis test)*
 
-**Pre-requis**: Aucun / *None*
+**Pre-requis**: ordinateur portable avec droit administrateur et installation de R / *laptop with admin rights and R installation*
 
 
 #### ChIP-seq analyis
@@ -79,9 +81,16 @@ Comment lancer un pipeline  de la plateforme de bioinformatique de production en
 
 #### Data visualization (ggplot2) with R
 
-Coming soon...
+1. Principes de syntaxe (esthétiques et calques) / *Syntax principles*
+2. Types de figures abordées : distributions (histogrammes, densités, fréquences), boites à moustaches, violons, nuages de points, courbes de régression / *basic plots*
+3. Echelles, axes / *scales, axes*
+4. Thèmes /*themes*
+5. Facettage / *facets*
+6. Personnalisation, ajout d'informations sur les figures / *Customization, add informations on plots*
+7. Extensions / *Extensions*
+8. Ressources / *Resources*
 
-<!-- **Pre-requis**:  -->
+**Pre-requis**: ordinateur portable avec droit administrateur et installation de R, connaissances basiques de R (import et manipulation de données) / *laptop with admin rights and R installation and basic R knowledge (data import and manipulation)*
 
 
 #### Proteomics analysis
