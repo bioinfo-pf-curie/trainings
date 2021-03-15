@@ -26,6 +26,8 @@ Les formations seront dispensées en anglais si une des personnes enseignées ne
 
 Demande d'accès au VPN Extended / *Extended VPN access request*: https://tickets.curie.net/plugins/formcreator/front/formdisplay.php?id=6
 
+Pour vous connecter aux formulaires office, utilisez "id@curie.fr" (pas prénom.nom@curie.fr) / *To log in to the office forms, use "id@curie.fr" (and not first_name.last_name@curie.fr).*
+
 Pour plus d'informations sur les formations / *For more information on the trainings*:  bioinfo.formation@curie.fr.
 
 ---
