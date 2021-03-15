@@ -6,8 +6,8 @@ List of Curie trainings
 
 | Date                                           | Formation / Training                | Salle / Room    |
 |:----------------------------------------------:|:-----------------------------------:|:---------------:|
-| 09/04                                          | Bioshiny apps usage (Crispr)                     | Teams |
-| 12/05                                          | Bioinformatics pipeline                     | Teams |
+| 09/04 (PM)                                         | Bioshiny apps usage (Crispr)                     | Teams |
+| 12/05  (AM)                                       | Bioinformatics pipeline                     | Teams |
 | 09/09                                          | Python4Biologists                     | BDD Annexes 3/4 |
 | 04 & 05 & 07 & 08/10   | Data analysis with R                                             | BDD Annexes 3/4 |
 | 19/10                                          | ChIP-seq analysis                    | BDD Annexes 1/2 |
@@ -20,8 +20,8 @@ List of Curie trainings
 
 ### Contact
 
-Un email sera envoyé une semaine avant chaque formation pour ouvrir les inscriptions. / *An email will be sent a week prior to the training to open the registrations*
-
+Un email sera envoyé une semaine avant chaque formation pour ouvrir les inscriptions. / *An email will be sent a week prior to the training to open the registrations
+*
 Les formations seront dispensées en anglais si une des personnes enseignées ne parle pas français. / *Trainings will be given in english if at least one trainee doesn't speak french*.
 
 Demande d'accès au VPN Extended / *Extended VPN access request*: https://tickets.curie.net/plugins/formcreator/front/formdisplay.php?id=6
