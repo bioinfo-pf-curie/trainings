@@ -20,8 +20,8 @@ List of Curie trainings
 
 ### Contact
 
-Un email sera envoyé une semaine avant chaque formation pour ouvrir les inscriptions. / *An email will be sent a week prior to the training to open the registrations
-*
+Un email sera envoyé deux semaines avant chaque formation pour ouvrir les inscriptions. / *An email will be sent 2 weeks prior to the training to open the registrations*
+
 Les formations seront dispensées en anglais si une des personnes enseignées ne parle pas français. / *Trainings will be given in english if at least one trainee doesn't speak french*.
 
 Demande d'accès au VPN Extended / *Extended VPN access request*: https://tickets.curie.net/plugins/formcreator/front/formdisplay.php?id=6
