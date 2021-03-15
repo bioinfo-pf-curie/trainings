@@ -41,13 +41,13 @@ Pour plus d'informations sur les formations / *For more information on the train
 4. Comment télécharger vos résultats / *How to download your results*
 5. Réflexion sur les besoins utilisateurs / *Brainstorming about user needs*
 
-**Pre-requis**: un compte KDI, essayez de vous connecter à https://bioinfo-portal.curie.fr / *a KDI account. Try to connect with your curie login/pwd on https://bioinfo-portal.curie.fr*
+**Pre-requis**: un accès au VPN extended, un compte KDI, essayez de vous connecter à https://bioinfo-portal.curie.fr / *a VPN extended account, a KDI account. Try to connect with your curie login/pwd on https://bioinfo-portal.curie.fr*
 
 #### Bioinformatics pipeline
 
 Comment lancer un pipeline  de la plateforme de bioinformatique de production en nextflow / *How to run a nextflow bioinformatics pipeline  ?*
 
-**Pre-requis**: Experience en langages de programmation (bash, python..) et environnement unix + compte sur le cluster / *experience in programmation languages (bash, python..) & unix environment & cluster account*
+**Pre-requis**: un accès au VPN extended, une experience en langages de programmation (bash, python..) et environnement unix & compte sur le cluster / *a VPN extended account, experience in programmation languages (bash, python..) & unix environment & cluster account*
 
 
 #### Python4Biologists
