@@ -19,7 +19,7 @@ List of Curie trainings
 
 ---
 
-### Contact
+## Contact
 
 Un email sera envoyé deux semaines avant chaque formation pour ouvrir les inscriptions. / *An email will be sent 2 weeks prior to the training to open the registrations*
 
@@ -33,10 +33,10 @@ Pour plus d'informations sur les formations / *For more information on the train
 
 ---
 
-### Contents
+## Contents
 
 
-#### Bioshiny apps usage (Crispr)
+### Bioshiny apps usage (Crispr)
 
 1. Comment importer les données crispr  / *How to import your crispr data*
 2. Analyse descriptive des données / *Descriptive analysis*
@@ -46,18 +46,18 @@ Pour plus d'informations sur les formations / *For more information on the train
 
 **Pre-requis**: un accès au VPN extended, un compte KDI, essayez de vous connecter à https://bioinfo-portal.curie.fr / *a VPN extended account, a KDI account. Try to connect with your curie login/pwd on https://bioinfo-portal.curie.fr*
 
-#### Bioinformatics pipeline
+### Bioinformatics pipeline
 
 Comment lancer un pipeline  de la plateforme de bioinformatique de production en nextflow / *How to run a nextflow bioinformatics pipeline  ?*
 
 **Pre-requis**: un accès au VPN extended, une experience en langages de programmation (bash, python..) et environnement unix & compte sur le cluster / *a VPN extended account, experience in programmation languages (bash, python..) & unix environment & cluster account*
 
 
-#### Bash / Conda
+### Bash / Conda
 
 Coming soon...
 
-#### Python4Biologists
+### Python4Biologists
 
 1. Introduction
 2. Afficher et manipuler du texte / *Printing and manipulating text*
@@ -69,7 +69,7 @@ Coming soon...
 **Pre-requis**: ordinateur portable avec droit administrateur et installation de python et éditeur de texte compatible python/ *laptop with admin rights and installation of python and text editor compatible with python*
 
 
-#### Data analysis with R
+### Data analysis with R
 
 1. Comment importer des données dans R / *How to import data in R*
 2. Manipulation des données / *Data manipulation*
@@ -79,7 +79,7 @@ Coming soon...
 **Pre-requis**: ordinateur portable avec droit administrateur et installation de R / *laptop with admin rights and R installation*
 
 
-#### ChIP-seq analyis
+### ChIP-seq analyis
 
 1. Contrôle qualité des données / *Data quality control*
 2. Alignement / *Alignment*
@@ -88,7 +88,7 @@ Coming soon...
 
 **Pre-requis**: Experience en langages de programmation (bash, python..) et environnement unix + compte sur le cluster / *experience in programmation languages (bash, python..) & unix environment & cluster account*
 
-#### Data visualization (ggplot2) with R
+### Data visualization (ggplot2) with R
 
 1. Principes de syntaxe (esthétiques et calques) / *Syntax principles*
 2. Types de figures abordées : distributions (histogrammes, densités, fréquences), boites à moustaches, violons, nuages de points, courbes de régression / *basic plots*
@@ -102,7 +102,7 @@ Coming soon...
 **Pre-requis**: ordinateur portable avec droit administrateur et installation de R, connaissances basiques de R (import et manipulation de données) / *laptop with admin rights and R installation and basic R knowledge (data import and manipulation)*
 
 
-#### Proteomics analysis
+### Proteomics analysis
 
 1. Introduction à la spectrométrie de masse protéomique / *Introduction to proteomic mass spectrometry.*
 2. Identification de protéines / Protein identification.
@@ -118,7 +118,7 @@ Coming soon...
 
 
 <!--
-#### Statistical tests : notions and approach
+### Statistical tests : notions and approach
 
 1. Introduction aux tests statistiques / *Introduction to statistical tests*
 2. Test d'hypothèses, approche & notions / *Hypothesis testing: approach & notions*
@@ -128,7 +128,7 @@ Coming soon...
 **Pre-requis**: None
 
 
-#### Bioshiny apps usage (RNA-seq)
+### Bioshiny apps usage (RNA-seq)
 
 1. Comment utiliser les 4 applications dédiées (Ideal, pcaExplorer, Pivot, SeuratV3Wizard) / *How to use the four apps (Ideal, pcaExplorer, Pivot and SeuratV3Wizard)*
 2. Vérification du format des fichiers d’entrées et import dans les applications, téléchargement des résultats et graphes / *Check data format and import it on the app. Produce and download results and plots.*
@@ -136,7 +136,7 @@ Coming soon...
 **Pre-requis**: un compte KDI, essayez de vous connecter à https://bioinfo-portal.curie.fr / *a KDI account. Try to connect with your curie login/pwd on https://bioinfo-portal.curie.fr*
 
 
-#### Bioshiny apps usage (Data mining)
+### Bioshiny apps usage (Data mining)
 
 1. Comment utilisez les applications dédiées au GeneOntology, à la création de diagramme de Venn et à la génération de plots (ShinyGo, Intervene, Esquisse) / *How to use the apps dedicated to GeneOntology, Venn diagram & plot generation (ShinyGo,intervene and Esquisse)*
 2. Vérification du format des fichiers d’entrées et import dans les applications, téléchargement des résultats et graphes / *Check data format and import it on the app. Produce and download results and plots.*
@@ -144,7 +144,7 @@ Coming soon...
 **Pre-requis**: un compte KDI, essayez de vous connecter à https://bioinfo-portal.curie.fr / a KDI account. *Try to connect with your curie login/pwd on https://bioinfo-portal.curie.fr*
 
 
-#### Nextflow
+### Nextflow
 
 1. Introduction (workflow manager, nextflow, basiques de Groovy, pour et contre) / *Introduction (workflow manager, nextflow, Groovy basics, pros & cons)*
 2. Notion de channel et process / *Process & channel notions*
@@ -155,9 +155,7 @@ Coming soon...
 **Pre-requis**: Experience en langages de programmation (bash, python..) et environnement unix / *experience in programmation languages (bash, python..) & unix environment*
 
 
-
-
-#### "Bash” to basics
+### "Bash” to basics
 
 1. Introduction au terminal Bash / *Introduction to bash terminal*
 2. Concepts de base (arborescence, droits, notion de script...) / *Basic concepts (tree view, permissions, script notion...)*
@@ -167,7 +165,7 @@ Coming soon...
 **Pre-requis**: ordinateur portable avec droit administrateur et un terminal Unix (installation de Mobaxterm sous windows) et éditeur de texte compatible bash / *laptop with admin rights and Unix terminal (Mobaxterm on windows) and a text editor compatible with bash*
 
 
-#### Statistical tests cookbook for biology
+### Statistical tests cookbook for biology
 
 Formation théorique avec des examples illustrés en R / *Theorical training with examples in R:*
 
