@@ -1,5 +1,5 @@
 
-List of Curie trainings
+List of Curie bioinformatics trainings
 ========================
 
 
