@@ -6,7 +6,7 @@ List of Curie bioinformatics trainings
 
 | Date                                           | Formation / *Training*                | Salle / *Room*    | Inscription / *Registration*  |
 |:----------------------------------------------:|:-----------------------------------:|:---------------:|:---------------:|
-| 09/04 (PM)                                         | Bioshiny apps usage (Crispr)                     | Teams | https://forms.office.com/r/dseTiF2mdu |
+| 09/04 (PM)                                         | Bioshiny apps usage (Crispr)                     | Teams | -- |
 | 12/05  (AM)                                       | Bioinformatics pipeline                     | Teams | |
 | 15/06                                         | Bash / Conda                     | Teams | |
 | 09/09                                          | Python4Biologists                     | BDD Annexes 3/4 | |
