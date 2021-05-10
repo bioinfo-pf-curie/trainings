@@ -4,16 +4,16 @@ List of Curie bioinformatics trainings
 
 
 
-| Date                                           | Formation / *Training*                | Salle / *Room*    | Inscription / *Registration*  |
-|:----------------------------------------------:|:-----------------------------------:|:---------------:|:---------------:|
-| 09/04 (PM)                                         | Bioshiny apps usage (Crispr)                     | Teams | -- |
-| 12/05  (AM)                                       | Bioinformatics pipeline                     | Teams | |
+| Date                                           | Formation / *Training*                | Salle / *Room*     |
+|:----------------------------------------------:|:-----------------------------------:|:---------------:|
+| 09/04 (PM)                                         | Bioshiny apps usage (Crispr)                     | Teams |
+| 12/05  (AM)                                       | Bioinformatics pipeline                     | Teams |
 | 15/06                                         | Bash / Conda                     | Teams | |
-| 09/09                                          | Python4Biologists                     | BDD Annexes 3/4 | |
-| 04 & 05 & 07 & 08/10   | Data analysis with R                                             | BDD Annexes 3/4 | |
-| 19/10                                          | ChIP-seq analysis                    | BDD Annexes 1/2 | |
-| 12/11                                          | Data visualization (ggplot2) with R | BDD Annexes 1/2 | |
-| 16/11                                          | Proteomics Analysis  | BDD Annexes 1/2 | |
+| 09/09                                          | Python4Biologists                     | BDD Annexes 3/4 |
+| 04 & 05 & 07 & 08/10   | Data analysis with R                                             | BDD Annexes 3/4 |
+| 19/10                                          | ChIP-seq analysis                    | BDD Annexes 1/2 |
+| 12/11                                          | Data visualization (ggplot2) with R | BDD Annexes 1/2 |
+| 16/11                                          | Proteomics Analysis  | BDD Annexes 1/2 |
 
 
 
@@ -55,7 +55,13 @@ Comment lancer un pipeline  de la plateforme de bioinformatique de production en
 
 ### Bash / Conda
 
-Coming soon...
+1. Introduction au terminal Bash / *Introduction to bash terminal*
+2. Concepts de base (arborescence, droits, notion de script...) / *Basic concepts (tree view, permissions, script notion...)*
+3. Commandes de base (lecture/copie/déplacement de fichiers, redirection de commande, création de dossier...) / *Basic commands (how to read, copy, move a file, how to pipe a command, create a folder...)*
+4. Notions avancées (sed, expressions régulières) / *Advanced notions (sed, regular expressions)*
+
+**Pre-requis**: un accès au VPN extended & un compte sur le cluster, un ordinateur portable avec droit administrateur et un terminal Unix (installation de Mobaxterm sous windows) et éditeur de texte compatible bash / *a VPN extended account & a cluster account, a laptop with admin rights and Unix terminal (Mobaxterm on windows) and a text editor compatible with bash*
+
 
 ### Python4Biologists
 
