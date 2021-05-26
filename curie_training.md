@@ -59,6 +59,8 @@ Comment lancer un pipeline  de la plateforme de bioinformatique de production en
 2. Concepts de base (arborescence, droits, notion de script...) / *Basic concepts (tree view, permissions, script notion...)*
 3. Commandes de base (lecture/copie/déplacement de fichiers, redirection de commande, création de dossier...) / *Basic commands (how to read, copy, move a file, how to pipe a command, create a folder...)*
 4. Notions avancées (sed, expressions régulières) / *Advanced notions (sed, regular expressions)*
+5. Notions liées au cluster de calcul / *Cluster based notions*
+6. Notions liées à l'utilisation de conda / *Conda based notions*
 
 **Pre-requis**: un accès au VPN extended & un compte sur le cluster, un ordinateur portable avec droit administrateur et un terminal Unix (installation de Mobaxterm sous windows) et éditeur de texte compatible bash / *a VPN extended account & a cluster account, a laptop with admin rights and Unix terminal (Mobaxterm on windows) and a text editor compatible with bash*
 
