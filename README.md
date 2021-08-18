@@ -27,9 +27,6 @@ The bioinformatics platform of the Institut Curie provides here a list of free b
 
 ---
 
-<!-- ### Institut Curie  -->
-
-
 
 ### Selected contents
 
@@ -40,6 +37,7 @@ The bioinformatics platform of the Institut Curie provides here a list of free b
 - [Deep learning in 5 minutes](https://www.youtube.com/watch?v=6M5VXKLf4D4)
 - Reproducibility
 	- [A gentle introduction to the version control system, **GIT**](https://www.growingwiththeweb.com/2014/02/a-gentle-introduction-to-git.html)
+-  (**new**) [Interactive tutorial on bedtools, samtools and bowtie2](https://sandbox.bio/)
 
 #### For advanced users
 - Unix
@@ -103,9 +101,9 @@ The bioinformatics platform of the Institut Curie provides here a list of free b
 	- algorithms, python, data analysis
 - [Ivy League Courses freeCodeCamp list](https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/amp/?__twitter_impression=true)
 	- programming, data analysis
-- (**new**) [Picking Up The Tabb](https://pickingupthetabb.wordpress.com/building-a-bioinformaticist/free-online-training-in-bioinformatics-and-biostatistics/)
+- [Picking Up The Tabb](https://pickingupthetabb.wordpress.com/building-a-bioinformaticist/free-online-training-in-bioinformatics-and-biostatistics/)
 	- R, statistics, data analysis, Proteomics, Genomics, python
-- (**new**) [Computational Genomics with R](https://compgenomr.github.io/book/)
+- [Computational Genomics with R](https://compgenomr.github.io/book/)
 	- R, Genomics, statistics, data analysis
 
 
@@ -142,12 +140,12 @@ The bioinformatics platform of the Institut Curie provides here a list of free b
 	- NGS, data analysis
 - [Python Programmer](https://www.youtube.com/user/consumerchampion/playlists)
 	- python, machine learning, data analysis
-- (**new**) [Rinnformatics](https://www.youtube.com/channel/UC7vZD35eUp4_SxsHnJLthJw?feature=emb_ch_name_ex)
+- [Rinnformatics](https://www.youtube.com/channel/UC7vZD35eUp4_SxsHnJLthJw?feature=emb_ch_name_ex)
 	- R, Nextflow, git
 
 
 ### Webinars
-- (**new**) [Orsys](https://www.orsys.com/Videos/)
+- [Orsys](https://www.orsys.com/Videos/)
 	- [IA](https://www.orsys.com/Videos/Video?themeId=4&videoId=webinar-IA)
 	- [Data science](https://www.orsys.com/Videos/Video?themeId=4&videoId=webinar-data-science-dataviz)
 	- [Big Data](https://www.orsys.com/Videos/Video?themeId=4&videoId=webinar-data-science)
@@ -155,15 +153,15 @@ The bioinformatics platform of the Institut Curie provides here a list of free b
 
 
 ### Online tools
-- (**new**) [Alfred - Generate BAM alignment statistics](https://www.gear-genomics.com/alfred/)
-- (**new**) [Mutalyzer - Check and convert HGVS variant nomenclature](https://mutalyzer.nl/)
-- (**new**) [VariantValidator - Validate and convert HGVS variant nomenclature](https://variantvalidator.org/)
-- (**new**) [TeXMed - a BibTeX interface for PubMed](https://www.bioinformatics.org/texmed/)
-- (**new**) [WebGestalt - a web-based Gene Set Analysis Toolkit](http://www.webgestalt.org/)
-- (**new**) [UpsetR - Shiny app to create UpSet plots](https://gehlenborglab.shinyapps.io/upsetr/)
-- (**new**) [Data-to-viz - Find the graphic you need](https://www.data-to-viz.com/)
-- (**new**) [UCSC Xena - Explore functional genomic data sets](https://xena.ucsc.edu/)
-- (**new**) [g:Profiler - functional enrichment analysis](https://biit.cs.ut.ee/gprofiler/gost)
+- [Alfred - Generate BAM alignment statistics](https://www.gear-genomics.com/alfred/)
+- [Mutalyzer - Check and convert HGVS variant nomenclature](https://mutalyzer.nl/)
+- [VariantValidator - Validate and convert HGVS variant nomenclature](https://variantvalidator.org/)
+- [TeXMed - a BibTeX interface for PubMed](https://www.bioinformatics.org/texmed/)
+- [WebGestalt - a web-based Gene Set Analysis Toolkit](http://www.webgestalt.org/)
+- [UpsetR - Shiny app to create UpSet plots](https://gehlenborglab.shinyapps.io/upsetr/)
+- [Data-to-viz - Find the graphic you need](https://www.data-to-viz.com/)
+- [UCSC Xena - Explore functional genomic data sets](https://xena.ucsc.edu/)
+- [g:Profiler - functional enrichment analysis](https://biit.cs.ut.ee/gprofiler/gost)
 
 
 ### Miscellaneous
@@ -171,7 +169,7 @@ The bioinformatics platform of the Institut Curie provides here a list of free b
 #### Blogs
 - [RNAseq-blog](https://www.rna-seqblog.com/)
 - [Bioinfo-fr](https://bioinfo-fr.net/)
-- (**new**) [KeepScienceGoing](http://keepsciencegoing.org)
+- [KeepScienceGoing](http://keepsciencegoing.org)
 
 #### Apps
 
