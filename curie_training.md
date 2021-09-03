@@ -6,11 +6,11 @@ List of Curie bioinformatics trainings
 
 | Date                                           | Formation / *Training*                | Salle / *Room*     |
 |:----------------------------------------------:|:-----------------------------------:|:---------------:|
-| 09/09                                          | Python4Biologists                     | BDD Annexes 3/4 |
-| 04 & 05 & 07 & 08/10   | Data analysis with R                                             | BDD Annexes 3/4 |
+| 09/09                                          | Python4Biologists                     | Teams |
 | 19/10                                          | ChIP-seq analysis                    | BDD Annexes 1/2 |
 | 12/11                                          | Data visualization (ggplot2) with R | BDD Annexes 1/2 |
 | 16/11                                          | Proteomics Analysis  | BDD Annexes 1/2 |
+| 24 & 25 & 26 & 28/01/2022   | Data analysis with R                                             | 24-25/01 : BDD Annexes 3/4 ; 26-28/01: BDD Annexes 1/2 |
 
 
 
