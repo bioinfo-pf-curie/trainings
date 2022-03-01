@@ -1,3 +1,12 @@
+List of Curie bioinformatics trainings
+========================
+
+Bioinformatics trainings currently available can be found [here](https://github.com/bioinfo-pf-curie/trainings/blob/master/curie_training.md)
+
+
+
+
+
 List of online bioinformatics trainings
 ========================
 
