@@ -6,12 +6,12 @@ List of Curie bioinformatics trainings
 
 | Date                                           | Formation / *Training*                | Salle / *Room*     |
 |:----------------------------------------------:|:-----------------------------------:|:---------------:|
-| 09/09                                          | Python4Biologists  - 1st Session                   | BDD Annexes 3/4 |
-| 04/10                                          | Python4Biologists  - 2nd Session                 | BDD Annexes 3/4 |
-| 05/10                                          | Data visualization (ggplot2) with R  - 1st Session                   | BDD Annexes 3/4 |
-| 07/10                                          | Data visualization (ggplot2) with R  - 2nd Session                   | BDD Annexes 3/4 |
-| 16/11                                          | Proteomics Analysis  | BDD Annexes 1/2 |
-| 24 & 25 & 26 & 28/01/2022   | Data analysis with R                                             | 24-25/01 : BDD Annexes 3/4 ; 26-28/01: BDD Annexes 1/2 |
+| 08/03 & 11/03                                         | Data manipulation with R                   | BDD Annexes 1/2 |
+| 11/04 - AM                                          | Tests d'hypothèses               | BDD Annexes 3/4 |
+| 11/04 - PM                                          | Bioinformatics pipelines                  | BDD Annexes 3/4 |
+| 22/04 OR 03/05                                         | ChIPseq                   | BDD Annexes 1/2 |
+| 16/06                                          | Analyse de réseaux biologiques  | BDD Annexes 1/2 |
+| 15/11  | Bioinformatics pipelines                                    | BDD Annexes 3/4 |
 
 
 ---
@@ -84,6 +84,18 @@ Comment lancer un pipeline  de la plateforme de bioinformatique de production en
 **Pre-requis**: ordinateur portable avec droit administrateur et installation de R / *laptop with admin rights and R installation*
 
 
+### Data manipulation with R
+
+1. L'usage basique de R / basic use of R
+2. L'import et export de données / data import/export
+3. La création de variables / variable creation
+4. Le filtrage de données / data filtering
+5. Résumé des données / data summarisation
+6. La manipulation de chaines de caractères / manipulation of strings
+
+**Pre-requis**: ordinateur portable avec droit administrateur et installation de R et rstudio / *laptop with admin rights and R & rstudio installation*
+
+
 ### ChIP-seq analyis
 
 1. Contrôle qualité des données / *Data quality control*
@@ -122,7 +134,7 @@ Comment lancer un pipeline  de la plateforme de bioinformatique de production en
 **Pre-requis**: ordinateur portable avec accès Wi-fi et navigateur internet / *laptop with Wi-fi connexion & internet browser*
 
 
-<!--
+
 ### Statistical tests : notions and approach
 
 1. Introduction aux tests statistiques / *Introduction to statistical tests*
@@ -180,4 +192,3 @@ Formation théorique avec des examples illustrés en R / *Theorical training wit
 
 **Pre-requis**: Aucun / *None*
 
- -->
