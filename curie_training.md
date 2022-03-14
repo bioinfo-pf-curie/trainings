@@ -9,8 +9,10 @@ List of Curie bioinformatics trainings
 | 08/03 & 11/03                                         | Data manipulation with R                   | BDD Annexes 1/2 |
 | 11/04 - AM                                          | Tests d'hypothèses               | BDD Annexes 3/4 |
 | 11/04 - PM                                          | Bioinformatics pipelines                  | BDD Annexes 3/4 |
-| 22/04 OR 03/05                                         | ChIPseq                   | BDD Annexes 1/2 |
+| 19/04 & 22/04                                         | Data manipulation with R                    | BDD Annexes 1/2 |
+| 03/05                                         | ChIPseq                   | BDD Annexes 1/2 |
 | 16/06                                          | Analyse de réseaux biologiques  | BDD Annexes 1/2 |
+| 12/09                                         | Data visualization (ggplot2) with R  | BDD Annexes 3/4 |
 | 15/11  | Bioinformatics pipelines                                    | BDD Annexes 3/4 |
 
 
