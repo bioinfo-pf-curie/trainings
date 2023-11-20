@@ -30,6 +30,9 @@ The bioinformatics platform of the Institut Curie provides here a list of free b
 
 ### Selected contents
 
+- [UCSC Davis Courses](https://ucdavis-bioinformatics-training.github.io/)
+- [IARC Courses](https://github.com/IARCbioinfo/medical_genomics_course/wiki)
+
 #### For beginners
 - [R](https://data-flair.training/blogs/rstudio-tutorial/)
 - [Python](https://www.youtube.com/watch?v=rfscVS0vtbw&t=2446s)
